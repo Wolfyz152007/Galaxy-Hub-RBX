@@ -1,5 +1,5 @@
 if game.PlaceId == 4639625707
- -- game 1 script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz152007/galaxy-hub/main/oil%20warfare%20tycoon"))()
 elseif game.PlaceId == ID2 then
    -- game 2 script
 end
