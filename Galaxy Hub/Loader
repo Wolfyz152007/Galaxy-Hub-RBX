@@ -1,4 +1,4 @@
-if game.PlaceId == 4639625707
+if game.PlaceId == 4639625707 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz152007/galaxy-hub/main/oil%20warfare%20tycoon"))()
 end
 
