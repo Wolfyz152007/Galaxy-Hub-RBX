@@ -2,4 +2,6 @@ if game.PlaceId == 4639625707 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz152007/galaxy-hub/main/oil%20warfare%20tycoon"))()
 elseif game.PlaceId == 183364845 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz152007/Galaxy-Hub-RBX/main/Galaxy%20Hub/Games/speed%20run%204.lua"))()
+elseif game.PlaceId == 8750997647 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz152007/Galaxy-Hub-RBX/main/Galaxy%20Hub/Games/Tapping%20Legends%20X.lua"))()
 end
